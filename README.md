@@ -33,9 +33,12 @@ To run the application locally, follow these steps:
    ```
    yarn install
    ```
+   ```
+   npm run build
+   ```
 4. Run the development server:
    ```
-   npm start
+   npm start or npm run dev
    ```
    or
    ```

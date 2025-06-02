@@ -57,4 +57,4 @@ To run the application locally, follow these steps:
 
 ## Deployment
 This application is deployed using Vercel Pages & Vite as a build tool.
-
+adding details and create some more valueable
